@@ -39,6 +39,4 @@ to identify revenue trends, top products, and key markets.
 | `Ecommerce_Analysis_Report.pdf` | Full insights report |
 
 ## Dashboard Preview
-```
-![Dashboard](<Screenshot(101).png>)
-```
+![Dashboard](dashboard.png)
