@@ -40,5 +40,5 @@ to identify revenue trends, top products, and key markets.
 
 ## Dashboard Preview
 ```
-![Dashboard](Screenshot(101).png)
+(Screenshot(101).png)
 ```
